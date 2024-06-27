@@ -4,3 +4,4 @@
 2. Clonar el .env.template a .env
 3. Ejecutar el `npm intall`
 4. Ejecutar el `npm run dev`
+5. Obtener info de Discord y generar Secret Token con ruby.
